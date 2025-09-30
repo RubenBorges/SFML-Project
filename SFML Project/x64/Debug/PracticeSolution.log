@@ -1,8 +1,0 @@
-﻿  Scanning sources for module dependencies...
-  std.ixx
-  std.compat.ixx
-  Compiling...
-  std.ixx
-  std.compat.ixx
-  SFML.cpp
-  PracticeSolution.vcxproj -> C:\Projects\SFML\x64\Debug\SFML Project.exe
